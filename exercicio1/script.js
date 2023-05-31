@@ -20,20 +20,20 @@ console.log("valor total da conta: "+conta);
 
 //PASSANDO PARA FUNÇÃO
 
-// function querCoxinha (respostaUsuario){
-//     let conta = 0
-//     while (resposta.toLowerCase() === "sim" || resposta.toUpperCase() ==="S") {
-//         // conta += 2.5
-//         conta = conta + 2.5
+function querCoxinha (respostaUsuario){
+    let conta = 0
+    while (resposta.toLowerCase() === "sim" || resposta.toUpperCase() ==="S") {
+        // conta += 2.5
+        conta = conta + 2.5
     
-//         resposta = prompt("deseja mais coxinha?")
-//     }
+        resposta = prompt("deseja mais coxinha?")
+    }
     
-//     console.log(conta);
-// }
+    console.log(conta);
+}
 
 
-// querCoxinha(resposta)
+querCoxinha(resposta)
 
 
 
