@@ -38,3 +38,7 @@ querCoxinha(resposta)
 
 
 console.log("teste");
+console.log("teste");
+console.log("teste");
+console.log("teste");
+console.log("teste");
