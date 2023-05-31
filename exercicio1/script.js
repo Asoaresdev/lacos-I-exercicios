@@ -34,3 +34,7 @@ console.log("valor total da conta: "+conta);
 
 
 // querCoxinha(resposta)
+
+
+
+console.log("teste");
